@@ -1,0 +1,1 @@
+print(f"{salary:>12.2f}")
